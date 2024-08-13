@@ -1,19 +1,19 @@
-Simon Game
-This is a web-based implementation of the classic Simon Game built using JavaScript, HTML, CSS, and jQuery. The game tests your memory by generating a sequence of colors that you must replicate. As the game progresses, the sequences become longer and more challenging.
+## Simon Game
 
-Features:
+This is a web-based implementation of the classic **Simon Game** built using JavaScript, HTML, CSS, and jQuery. The game tests your memory by generating a sequence of colors that you must replicate. As the game progresses, the sequences become longer and more challenging.
 
-Randomly generated color sequences.
-Increasing difficulty as you progress.
-Responsive design for a seamless experience on both desktop and mobile.
+### Features:
+- Randomly generated color sequences.
+- Increasing difficulty as you progress.
+- Responsive design for a seamless experience on both desktop and mobile.
+
 Feel free to clone, fork, and contribute to this project!
 
-Technologies Used:
-
-JavaScript
-jQuery
-HTML5
-CSS3
+### Technologies Used:
+- JavaScript
+- jQuery
+- HTML5
+- CSS3
 
 Screenshots 📸
 
